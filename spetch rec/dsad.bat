@@ -1,0 +1,2 @@
+py yanpechrecoz.py
+pause

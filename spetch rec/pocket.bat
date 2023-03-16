@@ -1,0 +1,2 @@
+py pocketsphinx.py
+pause
